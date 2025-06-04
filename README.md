@@ -25,6 +25,14 @@
    npm install
    ```
 
+2. **Create the `.env` file**:
+
+Create a `.env` file in the root folder
+
+   ```bash
+   GEMINI_KEY = Generate your own api key from Gemini Studio
+   ```
+   
 ## Usage
 
 After installation, you can start the CLI application using:
